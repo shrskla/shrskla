@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Shruti Shukla. I am a Global Health PhD student at TU Munich.
+I am currently learning quantitative analysis for my coursework. For stat analysis I am learning programming (with STATA and Python).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/shruti-shukla-2768b842).
+
 <!--
 **shrskla/shrskla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
